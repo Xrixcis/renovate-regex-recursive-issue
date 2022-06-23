@@ -1,7 +1,7 @@
 
 jib {
     from {
-        image = "openjdk:17"
+        image = "openjdk:20"
     }
 }
 
