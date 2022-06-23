@@ -3,5 +3,7 @@ module.exports = {
     platform: "github",
     branchPrefix: "renovate-action/",
     logLevel: "debug",
-    repositories: []
+    repositories: [
+        "Xrixcis/renovate-regex-recursive-issue"
+    ]
 };
